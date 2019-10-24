@@ -17,6 +17,7 @@ public class ND20191022 {
             pozicija++;
         }
 
+
         for (int element : masyvas2) {
             masyvas3[pozicija] = element;
             pozicija++;
